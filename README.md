@@ -1,5 +1,5 @@
 # Système de recommandations
-Il s'agit d'un répertoire contenant le code en Python pour mon mémoire « Réalisation d’un système de recommandation à l’aide des graphes de connaissance ». 
+Il s'agit d'un répertoire contenant le code en Python pour mon mémoire « Réalisation d’un système de recommandation à l’aide des graphes de connaissance » de Master 1 Langue et Informatique à Sorbonne Université. Ce mémoire est Sous la direction de Monsieur Vincent LULLY.
 
 Dans chaque répertoire, il contient tous les codes et toutes les données déjà traitées pour les systèmes de recommandations. 
 
