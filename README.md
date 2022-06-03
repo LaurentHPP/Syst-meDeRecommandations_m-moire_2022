@@ -41,7 +41,7 @@ Pour plus de l'information, cliquez :  http://www.wikidata.org/entity/Q8678
 
 # Ressources
 
-Contenant aux plongements (embedding), vous pouvez trouver directement les plongements deja récupérés au format Word2vec dans chaque répertoire, ils sont sous format txt. Et pour les ressources originales qui sont trop volumineuses, vous pouvez cliquer sur
+Contenant aux plongements (embedding), vous pouvez trouver directement les plongements deja récupérés au format Word2vec dans chaque répertoire, ils sont sous format txt. Et pour les ressources originales qui sont trop volumineuses, si vous voulez les télécharger, vous pouvez cliquer sur
 
 [Les plongments des Wikipedia générés par l'apporche PyTorch-BigGraph](https://dl.fbaipublicfiles.com/torchbiggraph/wikidata_translation_v1.tsv.gz)
 
