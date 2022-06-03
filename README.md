@@ -2,7 +2,7 @@
 
 Il s'agit d'un répertoire contenant le code en Python pour mon mémoire « Réalisation d’un système de recommandation à l’aide des graphes de connaissance » de Master 1 Langue et Informatique à Sorbonne Université. Ce mémoire est Sous la direction de Monsieur Vincent LULLY.
 
-J'ai réalisé les Systèmes de recommandations dans 3 domaines : cusine, film et ville (tourisme). donc pour les 3 répertoires, chacun contient tous les codes et toutes les données déjà traitées dans un domaine.
+J'ai réalisé les Systèmes de recommandations dans 3 domaines : cusine, film et ville (tourisme), donc pour les 3 répertoires, chacun contient tous les codes et toutes les données déjà traitées dans un domaine.
 
 # Démonstration 
 
