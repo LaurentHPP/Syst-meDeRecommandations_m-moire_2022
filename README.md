@@ -3,4 +3,5 @@ c'est un répertoire contenant le code en Python pour mon mémoire « Réalisat
 
 Contenant aux plongements, il sont trop volumineuses, donc il n'est pas disponible ici, vous pouvez les trouver sur :
 
+[les plongments des Wikipedia généré par l'apporche PyTorch-BigGraph](https://dl.fbaipublicfiles.com/torchbiggraph/wikidata_translation_v1.tsv.gz)
 
