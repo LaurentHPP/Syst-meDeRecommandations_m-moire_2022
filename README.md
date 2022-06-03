@@ -2,13 +2,14 @@
 
 Il s'agit d'un répertoire contenant le code en Python pour mon mémoire « Réalisation d’un système de recommandation à l’aide des graphes de connaissance » de Master 1 Langue et Informatique à Sorbonne Université. Ce mémoire est Sous la direction de Monsieur Vincent LULLY.
 
-Ici, il y a 3 répertoires et chacun contenant tous mes codes et toutes les données déjà traitées pour les systèmes de recommandations. 
+J'ai réalisé les Systèmes de recommandations dans 3 domaines : cusine, film et ville (tourisme). donc pour les 3 répertoires, chacun contient tous les codes et toutes les données déjà traitées dans un domaine.
 
 # Démonstration 
 
 Pour chaque domaine, il y a 3 systèmes de recommandations. 
 
-Je vous montre un exemple, si vous aimez Lisbonne et Lille et vous n'aimez pas Lausanne, vous voulez trouver les villes qui sont potentiellement vous intéressées. Vous pouvez utiliser ``recommander(["Lisbonne","Lille"],["Lausanne"]) ``
+Je vous montre un exemple, si vous aimez Lisbonne et Lille et vous n'aimez pas Lausanne, vous voulez trouver les villes qui sont potentiellement vous intéressées. Vous pouvez utiliser ``recommander(["Lisbonne","Lille"],["Lausanne"]) `` dans le systèmes créé avec les plongements générés par l'apporche RDF2vec.
+
 Et Vous allez voir le résultat :
 ```
 Je vous conseille de visiter les villes suivantes :
