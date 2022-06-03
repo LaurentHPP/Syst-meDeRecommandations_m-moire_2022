@@ -5,7 +5,33 @@ Ici, il y a 3 répertoires et chacun contenant tous mes codes et toutes les donn
 
 # démonstration 
 Par exemple, si vous aimez Lisbonne et Lille et vous n'aimez pas Lausanne, vous voulez trouver les villes qui sont potentiellement vous intéressées. Vous pouvez utiliser ``recommander(["Lisbonne","Lille"],["Lausanne"]) ``
+Et Vous allez voir le résultat :
+``
+Je vous conseille de visiter les villes suivantes :
 
+
+==================================================
+
+
+Numéro 1 : Rotterdam
+Pour plus de l'information, cliquez :  http://www.wikidata.org/entity/Q34370
+
+
+Numéro 2 : Maputo
+Pour plus de l'information, cliquez :  http://www.wikidata.org/entity/Q3889
+
+
+Numéro 3 : Funchal
+Pour plus de l'information, cliquez :  http://www.wikidata.org/entity/Q25444
+
+
+Numéro 4 : Praia
+Pour plus de l'information, cliquez :  http://www.wikidata.org/entity/Q3751
+
+
+Numéro 5 : Rio_de_Janeiro
+Pour plus de l'information, cliquez :  http://www.wikidata.org/entity/Q8678
+``
 
 
 
